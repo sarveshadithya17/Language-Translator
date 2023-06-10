@@ -1,7 +1,3 @@
-
-
-![Downloads](https://img.shields.io/github/downloads/JehanPatel/Language-Translator/total) ![Contributors](https://img.shields.io/github/contributors/JehanPatel/Language-Translator?color=dark-green) ![Forks](https://img.shields.io/github/forks/JehanPatel/Language-Translator?style=social) ![Stargazers](https://img.shields.io/github/stars/JehanPatel/Language-Translator?style=social) ![Issues](https://img.shields.io/github/issues/JehanPatel/Language-Translator) 
-
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
@@ -58,6 +54,7 @@ Contributions are what make the open source community such an amazing place to b
 * **Jehan Patel** - *CSE Core student* - [Jehan Patel](https://github.com/JehanPatel)
 * **Neel Jain** - *CSE Core student* - [Neel Jain](https://github.com/Neel-2002)
 * **Abhinav** - *CSE Core student* - [Abhinav](https://github.com/Abhinav4291)
+* **Sarvesh Adithya J** - *CSC Core student* - [Sarvesh Adithya J](https://github.com/sarveshadithya17)
 
 
 
